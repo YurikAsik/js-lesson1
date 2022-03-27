@@ -1,2 +1,1 @@
-alert("Javascript works")
-console.log("Slava Ukraini!");
+alert("Click on Turtle Please")
