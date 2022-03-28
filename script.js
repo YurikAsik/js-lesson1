@@ -1,1 +1,1 @@
-alert("Click on Turtle Please")
+alert("Everything will be Ukraine")

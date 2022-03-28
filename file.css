@@ -1,3 +1,22 @@
- body{
-     background-color: blue;
- }
+header{
+    background: linear-gradient(#0000ff, #ffff00);
+}
+ul{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+a{
+    font-size: 30px;
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
